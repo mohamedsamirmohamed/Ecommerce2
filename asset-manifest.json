@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/Ecommerce2/static/css/main.c4c5d522.css",
+    "main.js": "/Ecommerce2/static/js/main.1ea6f078.js",
+    "static/js/453.1c586ac4.chunk.js": "/Ecommerce2/static/js/453.1c586ac4.chunk.js",
+    "static/media/fa-solid-900.ttf": "/Ecommerce2/static/media/fa-solid-900.2582b0e4bcf85eceead0.ttf",
+    "static/media/main.png.jpg": "/Ecommerce2/static/media/main.png.6a1127946ccd5fedde98.jpg",
+    "static/media/fa-brands-400.ttf": "/Ecommerce2/static/media/fa-brands-400.1815e00441357e01619e.ttf",
+    "static/media/fa-solid-900.woff2": "/Ecommerce2/static/media/fa-solid-900.2463b90d9a316e4e5294.woff2",
+    "static/media/fa-brands-400.woff2": "/Ecommerce2/static/media/fa-brands-400.c210719e60948b211a12.woff2",
+    "static/media/fa-regular-400.ttf": "/Ecommerce2/static/media/fa-regular-400.914997e1bdfc990d0897.ttf",
+    "static/media/pexels-photo-7679720.jpeg": "/Ecommerce2/static/media/pexels-photo-7679720.39fe35ad8f85b7cc0366.jpeg",
+    "static/media/pexels-photo-356056.jpeg": "/Ecommerce2/static/media/pexels-photo-356056.629d5b25026afba94e78.jpeg",
+    "static/media/pexels-photo-298863.jpeg": "/Ecommerce2/static/media/pexels-photo-298863.d7683052e2265df43b0f.jpeg",
+    "static/media/fa-regular-400.woff2": "/Ecommerce2/static/media/fa-regular-400.89999bdf5d835c012025.woff2",
+    "static/media/pexels-photo-1927259.webp": "/Ecommerce2/static/media/pexels-photo-1927259.d2e43ee1ee60099bd3ba.webp",
+    "static/media/fa-v4compatibility.ttf": "/Ecommerce2/static/media/fa-v4compatibility.da94ef451f4969af06e6.ttf",
+    "static/media/fa-v4compatibility.woff2": "/Ecommerce2/static/media/fa-v4compatibility.ea8f94e1d22e0d35ccd4.woff2",
+    "index.html": "/Ecommerce2/index.html",
+    "main.c4c5d522.css.map": "/Ecommerce2/static/css/main.c4c5d522.css.map",
+    "main.1ea6f078.js.map": "/Ecommerce2/static/js/main.1ea6f078.js.map",
+    "453.1c586ac4.chunk.js.map": "/Ecommerce2/static/js/453.1c586ac4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c4c5d522.css",
+    "static/js/main.1ea6f078.js"
+  ]
+}
