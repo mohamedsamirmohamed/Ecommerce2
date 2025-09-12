@@ -4,7 +4,7 @@ A modern, responsive e-commerce web application built with React, featuring user
 
 ## 🚀 Live Demo
 
-Check out the live demo: [E-commerce Demo](https://ecommerce2-eight-beta.vercel.app/)
+Check out the live demo: [E-commerce Demo](https://mohamedsamirmohamed.github.io/Ecommerce2/)
 
 ## ✨ Features
 
